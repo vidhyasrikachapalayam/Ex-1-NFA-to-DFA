@@ -3,7 +3,7 @@
 # Exercise 1 - Conversion of Non-Deterministic Finite Automaton (NFA) To Deterministic Finite Automaton (DFA)
 
 # Date: 
-## Aim
+## AIM
 To write a C program for Conversion of Non-Deterministic Finite Automaton (NFA) To 
 Deterministic Finite Automaton (DFA).
 # ALGORITHM
