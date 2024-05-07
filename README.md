@@ -295,7 +295,8 @@ int main() {
 
 ```
 # OUTPUT 
-![image](https://github.com/vidhyasrikachapalayam/Ex-1-NFA-to-DFA/assets/119477817/b9d27024-e26e-47f5-aacd-e1548b9587ef)
+![image](https://github.com/vidhyasrikachapalayam/Ex-1-NFA-to-DFA/assets/119477817/893e4760-3a8f-4432-bf9b-c1e6cd4560f8)
+
 
 
 # RESULT
